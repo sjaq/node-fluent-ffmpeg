@@ -7,7 +7,7 @@ Via npm:
 `$ npm install fluent-ffmpeg`
 
 Or as a submodule:
-`$ git submodule add git://github.com/schaermu/node-fluent-ffmpeg.git vendor/fluent-ffmpeg`
+`$ git submodule add git://github.com/sjaq/node-fluent-ffmpeg.git vendor/fluent-ffmpeg`
 ## Tests
 To run unit tests, make sure have nodeunit installed on your system (currently, only npm-installed versions are supported).
 
